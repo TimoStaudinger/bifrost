@@ -1,7 +1,7 @@
-# bifrost 🌉
-Bifröst URL shortener for [Vercel Now](https://vercel.com).
+# Bifröst
+🌉 URL shortener for [Vercel Now](https://vercel.com).
 
-To make your own:
+**Make your own in a few minutes:**
 
 1. Fork this project.
 1. Clone it and install dependencies by running `yarn install`.
