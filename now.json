@@ -1,8 +1,12 @@
 {
   "redirects": [
     {
-      "source": "/gh",
+      "source": "/github",
       "destination": "https://github.com/TimoSta"
+    },
+    {
+      "source": "/dotfiles",
+      "destination": "https://github.com/TimoSta/dotfiles"
     },
     {
       "source": "/(.*)",
