@@ -10,4 +10,4 @@
 1. Configure your **custom domain** on the [Vercel dashboard](https://vercel.com/dashboard) in the project settings.
 1. Profit!
 
-Set up the [Vercel GitHub integration](https://vercel.com/github) to **make adding redirects later on as simple as updating `now.json` directly via the GitHub user interface**. Your changes will be built and deployed automatically within seconds.
+Set up the [Vercel GitHub integration](https://vercel.com/github) to **make adding redirects later on as simple as updating `now.json`** directly via the GitHub user interface. Your changes will be built and deployed automatically within seconds.
