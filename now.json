@@ -1,0 +1,12 @@
+{
+  "redirects": [
+    {
+      "source": "/gh",
+      "destination": "https://github.com/TimoSta"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "https://timostaudinger.com"
+    }
+  ]
+}
