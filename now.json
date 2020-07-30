@@ -9,6 +9,10 @@
       "destination": "https://github.com/TimoSta/dotfiles"
     },
     {
+      "source": "/files",
+      "destination": "https://drive.google.com/drive/folders/19yez18C3uPtIB8BZOZM9Ah9xAdh8Chqu"
+    },
+    {
       "source": "/(.*)",
       "destination": "https://timostaudinger.com"
     }
