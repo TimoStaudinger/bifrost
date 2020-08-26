@@ -13,6 +13,10 @@
       "destination": "https://drive.google.com/drive/folders/19yez18C3uPtIB8BZOZM9Ah9xAdh8Chqu"
     },
     {
+      "source": "/net",
+      "destination": "https://vql6gmrird.ddns.net"
+    },
+    {
       "source": "/(.*)",
       "destination": "https://timostaudinger.com"
     }
