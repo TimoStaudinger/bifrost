@@ -5,6 +5,10 @@
       "destination": "https://github.com/TimoStaudinger"
     },
     {
+      "source": "/twitter",
+      "destination": "https://twitter.com/TimoStaudinger"
+    },
+    {
       "source": "/dotfiles",
       "destination": "https://github.com/TimoSta/dotfiles"
     },
