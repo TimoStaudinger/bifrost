@@ -21,6 +21,18 @@
       "destination": "https://timostaudinger.com/uses"
     },
     {
+      "source": "/cal15",
+      "destination": "https://cal.com/timostaudinger/15min"
+    },
+    {
+      "source": "/cal30",
+      "destination": "https://cal.com/timostaudinger/30min"
+    },
+    {
+      "source": "/cal60",
+      "destination": "https://cal.com/timostaudinger/60min"
+    },
+    {
       "source": "/(.*)",
       "destination": "https://timostaudinger.com"
     }
