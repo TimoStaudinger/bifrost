@@ -33,6 +33,10 @@
       "destination": "https://cal.com/timostaudinger/60min"
     },
     {
+      "source": "/ice",
+      "destination": "https://timostaudinger.com/ice"
+    },
+    {
       "source": "/(.*)",
       "destination": "https://timostaudinger.com"
     }
