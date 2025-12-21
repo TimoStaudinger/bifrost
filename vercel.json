@@ -46,6 +46,11 @@
       "permanent": true
     },
     {
+      "source": "/ICE",
+      "destination": "https://timostaudinger.com/ice",
+      "permanent": true
+    },
+    {
       "source": "/:path*",
       "destination": "https://timostaudinger.com",
       "permanent": true
