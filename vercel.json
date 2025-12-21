@@ -1,0 +1,54 @@
+{
+  "redirects": [
+    {
+      "source": "/github",
+      "destination": "https://github.com/TimoStaudinger",
+      "permanent": true
+    },
+    {
+      "source": "/twitter",
+      "destination": "https://twitter.com/TimoStaudinger",
+      "permanent": true
+    },
+    {
+      "source": "/dotfiles",
+      "destination": "https://github.com/TimoSta/dotfiles",
+      "permanent": true
+    },
+    {
+      "source": "/files",
+      "destination": "https://drive.google.com/drive/folders/19yez18C3uPtIB8BZOZM9Ah9xAdh8Chqu",
+      "permanent": true
+    },
+    {
+      "source": "/uses",
+      "destination": "https://timostaudinger.com/uses",
+      "permanent": true
+    },
+    {
+      "source": "/cal15",
+      "destination": "https://cal.com/timostaudinger/15min",
+      "permanent": true
+    },
+    {
+      "source": "/cal30",
+      "destination": "https://cal.com/timostaudinger/30min",
+      "permanent": true
+    },
+    {
+      "source": "/cal60",
+      "destination": "https://cal.com/timostaudinger/60min",
+      "permanent": true
+    },
+    {
+      "source": "/ice",
+      "destination": "https://timostaudinger.com/ice",
+      "permanent": true
+    },
+    {
+      "source": "/:path*",
+      "destination": "https://timostaudinger.com",
+      "permanent": true
+    }
+  ]
+}

@@ -5,12 +5,5 @@
   "repository": "git@github.com:TimoSta/bifrost.git",
   "author": "Timo Staudinger <mail@timostaudinger.com>",
   "license": "MIT",
-  "private": false,
-  "scripts": {
-    "deploy": "now",
-    "deploy:prod": "now --prod"
-  },
-  "devDependencies": {
-    "now": "^18.0.0"
-  }
+  "private": false
 }
