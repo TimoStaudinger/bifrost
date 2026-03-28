@@ -51,6 +51,11 @@
       "permanent": true
     },
     {
+      "source": "/",
+      "destination": "https://timostaudinger.com",
+      "permanent": true
+    },
+    {
       "source": "/:path*",
       "destination": "https://timostaudinger.com",
       "permanent": true
