@@ -51,6 +51,11 @@
       "permanent": true
     },
     {
+      "source": "/board",
+      "destination": "https://app.excalidraw.com/new",
+      "permanent": false
+    },
+    {
       "source": "/",
       "destination": "https://timostaudinger.com",
       "permanent": true
